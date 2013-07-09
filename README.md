@@ -21,4 +21,4 @@ Also this program should contain set of options/functions like:
 Additional information:
 * This project created during "LOTI.05.019 Programming and Data Analysis for Scientists and Engineers" course.
 
-* More detailed description of project/functional requirements You can find in Project Wiki.
+* More detailed description of project/functional requirements You can find in Project Wiki (coming soon).
