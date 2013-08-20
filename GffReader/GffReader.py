@@ -21,7 +21,7 @@ def read_file():
                     break
             line=line.strip().split('\t')
             for i in line:
-                f= open(r'ouput.txt', "a") #adding used data into .txt file 
+                f= open(r'data/ouput.txt', "a") #adding used data into .txt file 
                 f.write(i+'\t')
                 f.close()
             length= int(line[4])-int(line[3])
